@@ -1,0 +1,16 @@
+Platformer/Binaries/Win64/D3D12/D3D12Core.dll	2023-12-10T12:45:43.880Z
+Platformer/Binaries/Win64/OpenImageDenoise.dll	2023-12-10T16:22:42.374Z
+Platformer/Binaries/Win64/Platformer-Win64-Shipping.exe	2023-12-17T19:51:28.434Z
+Platformer/Binaries/Win64/tbb.dll	2023-12-10T11:48:32.506Z
+Platformer/Binaries/Win64/tbb12.dll	2023-12-10T16:22:24.545Z
+Platformer/Binaries/Win64/tbbmalloc.dll	2023-12-10T11:48:32.535Z
+Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe	2023-12-10T13:20:38.818Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2023-12-10T11:42:05.650Z
+Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll	2023-12-10T11:49:14.750Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2023-12-10T11:49:15.194Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2023-12-10T11:49:15.402Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2023-12-10T12:45:43.618Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2023-12-10T12:45:43.621Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2023-12-10T12:45:44.012Z
+Engine/Content/Slate/Cursor/invisible.cur	2023-12-10T13:02:09.657Z
+Platformer.exe	2023-12-17T19:59:21.112Z
